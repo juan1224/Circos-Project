@@ -1,6 +1,4 @@
 ## Circos-Project
 ### a implentation of circos by genomic
 
-[Circos](http://www.circos.ca) es un paquete de Software para visualizar datos e información, Visualiza los Datos en un diseño circular esto hace que circos sea ideal para explorar relaciones entre objetos o posiciones, Es ideal para crear infografías e ilustraciones de calidad de publicación con una alta proporción de datos a tinta, datos en capas simetrías agradables. Circos es flexible. Aunque originalmente diseñado para visualizar datos genómicos, puede crear cifras a partir de datos en cualquier campo, desde la Genómica hasta la visualización de la migración del arte matemático. Circos puede ser automatizado. Es controlado por archivos de configuración de texto sin formato, lo que lo hace difícilmente de configurar y difícil de manipular para un usuario final.
-
-
+[Circos](http://www.circos.ca) is a software package for visualizing data and information. It visualizes the data in a circular design, which makes circuses ideal for exploring relationships between objects or positions. It is ideal for creating high quality data and illustrations with high data rates In ink, layered data pleasant symmetries. Circos is flexible. Although originally designed to visualize genomic data, you can create figures from data in any field, from genomics to visualization of mathematical art migration. Circos can be automated. It is controlled by plain text configuration files, which makes it difficult to configure and difficult to manipulate for an end user.
